@@ -45,4 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0994-rotting-oranges) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
