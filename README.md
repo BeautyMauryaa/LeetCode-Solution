@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0994-rotting-oranges](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0994-rotting-oranges) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
