@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0994-rotting-oranges](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0994-rotting-oranges) |
+| [1861-rotating-the-box](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1861-rotating-the-box) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0994-rotting-oranges) |
+| [1861-rotating-the-box](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1861-rotating-the-box) |
 ## Design
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
+| [1861-rotating-the-box](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1861-rotating-the-box) |
 ## Sorting
 |  |
 | ------- |
