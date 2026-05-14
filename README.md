@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1861-rotating-the-box](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1861-rotating-the-box) |
+| [2784-check-if-array-is-good](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0383-ransom-note) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2784-check-if-array-is-good](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/2784-check-if-array-is-good) |
 ## Backtracking
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
+| [2784-check-if-array-is-good](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/2784-check-if-array-is-good) |
 ## Sliding Window
 |  |
 | ------- |
