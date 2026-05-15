@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0994-rotting-oranges](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0347-top-k-frequent-elements](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0383-ransom-note) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/2784-check-if-array-is-good) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0383-ransom-note) |
 | [1603-design-parking-system](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1603-design-parking-system) |
 ## Two Pointers
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [2784-check-if-array-is-good](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/2784-check-if-array-is-good) |
 ## Sliding Window
 |  |
@@ -104,4 +108,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
