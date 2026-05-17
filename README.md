@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0994-rotting-oranges](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0994-rotting-oranges) |
+| [1306-jump-game-iii](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1306-jump-game-iii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1861-rotating-the-box](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1861-rotating-the-box) |
 | [2784-check-if-array-is-good](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/2784-check-if-array-is-good) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0994-rotting-oranges) |
+| [1306-jump-game-iii](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1306-jump-game-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
