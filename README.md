@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0412-fizz-buzz) |
 ## Stack
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [1861-rotating-the-box](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1861-rotating-the-box) |
 ## Sorting
 |  |
