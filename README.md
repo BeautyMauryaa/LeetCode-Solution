@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0412-fizz-buzz) |
 ## Linked List
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0383-ransom-note) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0202-happy-number) |
 | [1861-rotating-the-box](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1861-rotating-the-box) |
 ## Sorting
 |  |
