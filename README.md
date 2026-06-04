@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0441-arranging-coins) |
 ## Linked List
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0441-arranging-coins) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
