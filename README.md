@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0347-top-k-frequent-elements](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0136-single-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Enumeration
 |  |
