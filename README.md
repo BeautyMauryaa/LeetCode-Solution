@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1306-jump-game-iii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1861-rotating-the-box](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1861-rotating-the-box) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/2784-check-if-array-is-good) |
@@ -103,11 +104,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2784-check-if-array-is-good](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/2784-check-if-array-is-good) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Tree
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0441-arranging-coins](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0441-arranging-coins) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0700-search-in-a-binary-search-tree) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Tree
 |  |
 | ------- |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -158,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0204-count-primes) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
