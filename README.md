@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0509-fibonacci-number](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -167,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
