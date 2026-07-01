@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1861-rotating-the-box) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,11 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0994-rotting-oranges](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1306-jump-game-iii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 | [1861-rotating-the-box](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1861-rotating-the-box) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0441-arranging-coins) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -179,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0509-fibonacci-number) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
