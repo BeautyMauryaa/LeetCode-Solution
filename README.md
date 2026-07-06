@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0994-rotting-oranges](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0994-rotting-oranges) |
+| [1288-remove-covered-intervals](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1306-jump-game-iii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [1288-remove-covered-intervals](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2784-check-if-array-is-good](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/2784-check-if-array-is-good) |
 ## Sliding Window
