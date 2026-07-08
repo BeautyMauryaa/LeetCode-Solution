@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0509-fibonacci-number) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0412-fizz-buzz) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
