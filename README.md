@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0204-count-primes) |
+| [0303-range-sum-query-immutable](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0994-rotting-oranges](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0994-rotting-oranges) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [1603-design-parking-system](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1732-find-the-highest-altitude) |
