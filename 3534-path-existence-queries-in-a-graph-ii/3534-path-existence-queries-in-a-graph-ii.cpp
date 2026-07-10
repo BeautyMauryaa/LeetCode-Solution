@@ -2,66 +2,48 @@ class Solution {
 public:
     vector<int> pathExistenceQueries(int n, vector<int>& nums, int maxDiff,
                                      vector<vector<int>>& queries) {
-
-        vector<int> idx(n), pos(n);
+        vector<int> idx(n), pos(n), res;
         iota(idx.begin(), idx.end(), 0);
-
         sort(idx.begin(), idx.end(),
-             [&](int a, int b) {
-                 return nums[a] < nums[b];
-             });
-
-        for (int i = 0; i < n; i++)
-            pos[idx[i]] = i;
-
-        int LOG = __lg(n) + 1;
-
-        vector<vector<int>> up(n, vector<int>(LOG));
-
-        int left = 0;
+             [&](int a, int b) { return nums[a] < nums[b]; });
         for (int i = 0; i < n; i++) {
-            while (nums[idx[i]] - nums[idx[left]] > maxDiff)
-                left++;
-            up[i][0] = left;
+            pos[idx[i]] = i;
         }
 
-        for (int j = 1; j < LOG; j++) {
+        int m = 32 - __builtin_clz(n);
+        vector<vector<int>> f(n, vector<int>(m));
+
+        for (int i = 0, left = 0; i < n; i++) {
+            while (nums[idx[i]] - nums[idx[left]] > maxDiff) left++;
+            f[i][0] = left;
+        }
+
+        for (int j = 1; j < m; j++) {
             for (int i = 0; i < n; i++) {
-                up[i][j] = up[up[i][j - 1]][j - 1];
+                f[i][j] = f[f[i][j - 1]][j - 1];
             }
         }
 
-        vector<int> ans;
-        ans.reserve(queries.size());
-
-        for (const auto &q : queries) {
-
-            int x = pos[q[0]];
-            int y = pos[q[1]];
-
-            if (x > y)
+        for (auto& q : queries) {
+            auto [x, y] = pair(pos[q[0]], pos[q[1]]);
+            if (x > y) {
                 swap(x, y);
-
+            }
             if (x == y) {
-                ans.push_back(0);
+                res.push_back(0);
                 continue;
             }
 
-            int steps = 0;
-
-            for (int j = LOG - 1; j >= 0; j--) {
-                if (up[y][j] > x) {
-                    y = up[y][j];
-                    steps += (1 << j);
+            int step = 0;
+            for (int i = m - 1; i >= 0; i--) {
+                if (f[y][i] > x) {
+                    y = f[y][i];
+                    step += 1 << i;
                 }
             }
 
-            if (up[y][0] <= x)
-                ans.push_back(steps + 1);
-            else
-                ans.push_back(-1);
+            res.push_back(f[y][0] <= x ? step + 1 : -1);
         }
-
-        return ans;
+        return res;
     }
 };
