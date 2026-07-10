@@ -2,48 +2,64 @@ class Solution {
 public:
     vector<int> pathExistenceQueries(int n, vector<int>& nums, int maxDiff,
                                      vector<vector<int>>& queries) {
-        vector<int> idx(n), pos(n), res;
+        vector<int> idx(n), pos(n);
         iota(idx.begin(), idx.end(), 0);
-        sort(idx.begin(), idx.end(),
-             [&](int a, int b) { return nums[a] < nums[b]; });
-        for (int i = 0; i < n; i++) {
-            pos[idx[i]] = i;
-        }
 
-        int m = 32 - __builtin_clz(n);
-        vector<vector<int>> f(n, vector<int>(m));
+        sort(idx.begin(), idx.end(),
+             [&](int a, int b) {
+                 return nums[a] < nums[b];
+             });
+
+        for (int i = 0; i < n; i++)
+            pos[idx[i]] = i;
+
+        int LOG = __lg(n) + 1;
+
+        // Better cache locality than vector<vector<int>>
+        vector<array<int, 20>> up(n);
+
+        const auto &a = nums;
+        const auto &id = idx;
 
         for (int i = 0, left = 0; i < n; i++) {
-            while (nums[idx[i]] - nums[idx[left]] > maxDiff) left++;
-            f[i][0] = left;
+            while (a[id[i]] - a[id[left]] > maxDiff)
+                left++;
+            up[i][0] = left;
         }
 
-        for (int j = 1; j < m; j++) {
+        for (int j = 1; j < LOG; j++) {
             for (int i = 0; i < n; i++) {
-                f[i][j] = f[f[i][j - 1]][j - 1];
+                up[i][j] = up[up[i][j - 1]][j - 1];
             }
         }
 
-        for (auto& q : queries) {
-            auto [x, y] = pair(pos[q[0]], pos[q[1]]);
-            if (x > y) {
+        vector<int> ans;
+        ans.reserve(queries.size());
+
+        for (const auto &q : queries) {
+            int x = pos[q[0]];
+            int y = pos[q[1]];
+
+            if (x > y)
                 swap(x, y);
-            }
+
             if (x == y) {
-                res.push_back(0);
+                ans.push_back(0);
                 continue;
             }
 
-            int step = 0;
-            for (int i = m - 1; i >= 0; i--) {
-                if (f[y][i] > x) {
-                    y = f[y][i];
-                    step += 1 << i;
+            int steps = 0;
+
+            for (int j = LOG - 1; j >= 0; j--) {
+                if (up[y][j] > x) {
+                    y = up[y][j];
+                    steps += (1 << j);
                 }
             }
 
-            res.push_back(f[y][0] <= x ? step + 1 : -1);
+            ans.push_back(up[y][0] <= x ? steps + 1 : -1);
         }
-        return res;
+
+        return ans;
     }
 };
