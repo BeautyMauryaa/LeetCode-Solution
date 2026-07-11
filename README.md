@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [0994-rotting-oranges](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/BeautyMauryaa/LeetCode-Solution/tree/master/1732-find-the-highest-altitude) |
